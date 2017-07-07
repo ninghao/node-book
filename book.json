@@ -6,7 +6,7 @@
     "pluginsConfig": {
         "piwik": {
             "URL": "analytics.ninghao.net",
-            "siteId": 9
+            "siteId": 13
         }
     }
     
